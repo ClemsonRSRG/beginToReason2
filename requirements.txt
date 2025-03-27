@@ -7,4 +7,4 @@ django-crispy-forms==2.3
 django-mathfilters==1.0.0
 websockets==15.0.1
 asgiref==3.8.1
-python-dotenv==1.0.1
+python-dotenv==1.1.0
