@@ -7,7 +7,5 @@ updates:
     time: "10:00"
   target-branch: "main"
   open-pull-requests-limit: 10
-  reviewers:
-  - yushan87
   labels:
   - dependencies
