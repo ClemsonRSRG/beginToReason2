@@ -1,5 +1,5 @@
 Django==6.0.5
-django-ace==1.43.5
+django-ace==1.44.0
 django-compressor==4.6.0
 django-libsass==0.9
 social-auth-app-django==5.9.0
