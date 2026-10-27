@@ -2,7 +2,7 @@ Django==6.1.2
 django-ace==1.44.0
 django-compressor==4.6.0
 django-libsass==0.9
-social-auth-app-django==7.1.0
+social-auth-app-django==7.2.0
 django-crispy-forms==2.7
 django-mathfilters==1.0.0
 websockets==17.3
